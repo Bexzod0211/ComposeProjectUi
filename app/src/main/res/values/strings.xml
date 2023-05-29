@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ComposeProject</string>
+    <string name="title_activity_screen1">Screen1</string>
+    <string name="title_activity_screen_login">ScreenLogin</string>
+    <string name="title_activity_screen2">Screen2</string>
+    <string name="title_activity_screen4">Screen4</string>
+    <string name="title_activity_screen5">Screen5</string>
+</resources>
